@@ -1,2 +1,4 @@
 # portfolio
-Criação de tema wordpress para portfolio
+
+Criação de tema Wordpress para Portfolio.
+
